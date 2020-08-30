@@ -39,7 +39,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="vishwa9 Github Stats" src="https://github-readme-stats.vishwa9.vercel.app
+  <img align="left" alt="vishwa9 Github Stats" src="https://github-readme-stats.codestackr.vercel.app
 /api?username=vishwa9&show_icons=true&hide_border=true" />
 
 </details>
