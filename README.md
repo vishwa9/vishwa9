@@ -2,12 +2,12 @@
 
 ## I'm a Frontend Developer!
 
-- 🔭 I’m currently working on netbanking portal!
-- 🌱 I’m currently learning React
-- ✍️ Ask me about Javascript, Angular, Typescript
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I spend most of my time learning stuff and listening songs simultaneously
-- 🙂 Pronouns: He/His
+- 🔭  I’m currently working on netbanking portal!
+- 🌱  I’m currently learning React
+- ✍️  Ask me about Javascript, Angular, Typescript
+- 🥅  2020 Goals: Contribute more to Open Source projects
+- ⚡  Fun fact: I spend most of my time learning stuff and listening songs simultaneously
+- 🙂  Pronouns: He/His
 
 ### Spotify Playing 🎧
 <!--[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)-->
@@ -36,12 +36,12 @@
 
 ---
 
-<!-- <details>
+<details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="vishwa9 Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishwa9&show_icons=true&hide_border=true" />
 
-</details>-->
+</details>
 
 [twitter]: https://twitter.com/vishwa_realdeal
 [linkedin]: https://www.linkedin.com/in/vishwajeet-chauhan-a9966493/
