@@ -1,4 +1,4 @@
-### Hi there, I'm Vishwa [website] 👋
+### Hi there, I'm Vishwa 👋
 
 ## I'm a Frontend Developer!
 
