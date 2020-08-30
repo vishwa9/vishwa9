@@ -10,7 +10,6 @@
 - 🙂  Pronouns: He/His
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-sable.vercel.app/api/spotify" alt="vishwa Spotify Playing" width="350" />](https://open.spotify.com/user/31rotlhixfcko575j677ldqyudqi)
 [![Spotify](https://spotify-sable.vercel.app/api/spotify)](https://open.spotify.com/user/31rotlhixfcko575j677ldqyudqi)
 
 ### Connect with me:
