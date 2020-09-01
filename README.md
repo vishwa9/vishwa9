@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Developer!
 
-- 🔭  I’m currently working on netbanking portal!
+- 🔭  I’m currently working on banking portal!
 - 🌱  I’m currently learning React
 - ✍️  Ask me about Javascript, Angular, Typescript
 - 🥅  2020 Goals: Contribute more to Open Source projects
